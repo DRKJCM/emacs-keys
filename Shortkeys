@@ -1,1 +1,228 @@
-my keys 
+ My keys`
+** EMACS editor Macros 
+
+** Feb 5  doubts 
+*** Git hub creation
+create account with mail ID remember ID pwd
+
+** Feb 1 Doubts
+1. switching betwwen files 
+2. installing in other system/config esp, install mi laptop
+3. copying file to HD thru MC 
+4. option of restoring settings/ when lid is open  system is not starting
+
+
+6. bulk numbering
+7. spellings check 
+8.
+
+9. lid closure options ,hibernations fun
+10. files or opening *randomly* not like headind ,sub heading ,branches need perticuler order .
+11. highlighting some letters in para 
+12. how to see file 1st window of F2D
+13. create links
+14. add photo
+15. 
+ 
+ export to pdf ,ppt,word and other related to me
+
+saving the changes/ is it auto save ? ans 15sec 
+
+*** jan doubts
+1. save to cloud 
+2. rules of sub tree 
+3. 2 windows in the begining 
+4. duplicate in pendrive 
+5. open files from begining 
+6. paste in other area
+7. sync option for orgily
+8. Renaming file.
+9. common subtree fun ,numbering ,star,
+10. copying files to HD thru terminal
+11. How to start from pendrive
+12. veiw only specifice tree
+13. how to install it again/from pendrive or sys
+
+14. hshhshshh
+
+15. sgsgsggsgg
+    
+16. hhyyhdyh
+
+17. thstgs
+
+18. nyhnnnznznb
+thhhshhsh
+hhggggggg
+sdeeeeee
+eeeeeeeee
+rrrrrrrrff
+** renaming file 
+** Installing eMacs  
+1. install MINT, 2. install emacs, 3. settings
+*** install Mint
+**** install from terminal 
+go to BIOS     5                   70
+select boot option ent      5      54
+select USB 1st option  ent  6          44
+restart ent    5       3334
+follow instructions   3       43
+want keep existing windows and install 3  44 
+or 
+want install by erasing existing  ent 
+wifi  connection username pwd ent 
+select partion space for mint ent 
+give comp name pwd ent 
+and ur mint is ready 
+
+**** install from FE
+*** install emacs 
+from terminal 
+sudo -i  ent
+apt update ent 
+apt install emacs ent 
+apt install mc ent 
+c D for exit 
+safetly remove and unplug usg drive
+*** settings  emacs / mint
+select config from pendrive file 
+put in root file 
+copy from pendrive to hardisk
+select file 
+F5 is copy ent 
+Alt i  for same pathway
+Go to directory cd ent 
+mc 
+media ent
+emacs 
+config
+copy  F5 ent 
+select compressed file  ent 
+will be copied in home directory
+
+create org directory 
+F10 come out 
+mkdir  for making directory
+home - jcm- config-
+spelling shortcut 
+sp e for boot again
+
+*** Updater
+open terminal 
+sudo -i   ent
+apt update  ent
+apt install emacs  ent
+C   D  for exit 
+
+when root coming means admin mode  can damage 
+u can work $ base ,  use apt command will not change ur system
+
+** Opening Emacs 
+
+open emacs directly Sup E        Shut down     F2 F3
+for differnce       Sup D        Help          F2 1 or shift  ?
+buffer          ctl shift F2     buffer change F5 up/dwn 
+other buffer    F2  o
+
+make 2 windows   F2 2            make 3 windows F2   single window    F2  1
+refresh  Ctl G                   collapse tab   
+down     v                       Page down      shift V
+** Copy /Paste 
+Select             ctl  sp     
+kill cell, Cut     ctl  K      paste   y ctl  y
+begining   Ctl  A              end      Ctl  E
+select      c sp up or dwn
+undo        ctl sh esc,  ctl  /
+save       Sup   a|
+|
+F1   K
+Help short keys  F1 B
+repeat common ctl Z
+duplicate   ctl  K
+  
+** Create table
+select content/area you want create table 
+press    F3 |
+for deleting table 
+undo     C /
+
+** Common functions
+i  Fle explorer   F2 D
+narrow             C Sup up/ down    
+new file open      C X f
+org files          C sup side 
+select whole file  f2  H
+Small /Large       F11   F11
+back/farward       C sh tab/esc
+
+
+done         ctl spece 
+zomo in      Ctl W up
+1. zoom out  Ctl W down
+adding date  F3
+spell check  F5 F5 4
+come out     Ctl  4
+closed tab open  ctl shift T
+todo         shift left left left
+complete     shift left left
+6:06 pm
+** Terminal Functions 
+to make same on both  sides   Alt i
+save       C X   C S
+close      C X    CC  or  C F4
+delete     F8 
+to know status    Whoami 
+
+** Numbering 
+number one line 
+go end   C  E
+Alt enter
+del
+repeat same functions can be memorised and executed with short key by  Ctl *
+
+** To repeat funtion
+(+ 1,2,3) 
+start, operation ,list of Args arguments ,End
+c (, C X, C u N
+C * for excution
+** Edit paragraph
+c  Sup side
+** Edit file name 
+
+goto F2 D enter 
+select file u want to edit
+C C  for select
+C r  for rename 
+enter the name u want to change 
+.org 
+then enter 
+ur file is created 
+ 
+** Todo function
+** How to find Difference 
+file open F2 d 
+open sup D for difference 
+define A file 
+define B file  ent 
+u will find differneces in both 
+shift ?  for help 
+shift ?  for help  expansion
+F2 F3 for close function
+** Additonal function
+
+p del for prev diff
+n space for next diff
+| - jump to diff 
+gx got x point
+c-l recenter
+v/V up dn
+<> scrole lt rt
+** Toggle functions
+hori/vert |
+Highlighting h
+auto refinement @
+ignore white space ##
+ignore case #c
+focus /hide  #f/#H
+read only  X
+wide display  w
